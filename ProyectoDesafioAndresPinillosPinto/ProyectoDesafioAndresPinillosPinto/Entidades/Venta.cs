@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ProyectoDesafioAndresPinillosPinto
+namespace ProyectoDesafioAndresPinillosPinto.Entidades
 {
     public class Venta
     {

@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Andinto\\source\\repos\\ProyectoDesafioAndresPinillosPinto\\ProyectoDesafioAndresPinillosPinto\\ProyectoDesafioAndresPinillosPinto.csproj": {}
+    "C:\\Users\\Andinto\\source\\repos\\ProyectoFinalCsharp-CH\\DesafioFinal-C--CH\\ProyectoDesafioAndresPinillosPinto\\ProyectoDesafioAndresPinillosPinto\\ProyectoDesafioAndresPinillosPinto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Andinto\\source\\repos\\ProyectoDesafioAndresPinillosPinto\\ProyectoDesafioAndresPinillosPinto\\ProyectoDesafioAndresPinillosPinto.csproj": {
+    "C:\\Users\\Andinto\\source\\repos\\ProyectoFinalCsharp-CH\\DesafioFinal-C--CH\\ProyectoDesafioAndresPinillosPinto\\ProyectoDesafioAndresPinillosPinto\\ProyectoDesafioAndresPinillosPinto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Andinto\\source\\repos\\ProyectoDesafioAndresPinillosPinto\\ProyectoDesafioAndresPinillosPinto\\ProyectoDesafioAndresPinillosPinto.csproj",
+        "projectUniqueName": "C:\\Users\\Andinto\\source\\repos\\ProyectoFinalCsharp-CH\\DesafioFinal-C--CH\\ProyectoDesafioAndresPinillosPinto\\ProyectoDesafioAndresPinillosPinto\\ProyectoDesafioAndresPinillosPinto.csproj",
         "projectName": "ProyectoDesafioAndresPinillosPinto",
-        "projectPath": "C:\\Users\\Andinto\\source\\repos\\ProyectoDesafioAndresPinillosPinto\\ProyectoDesafioAndresPinillosPinto\\ProyectoDesafioAndresPinillosPinto.csproj",
+        "projectPath": "C:\\Users\\Andinto\\source\\repos\\ProyectoFinalCsharp-CH\\DesafioFinal-C--CH\\ProyectoDesafioAndresPinillosPinto\\ProyectoDesafioAndresPinillosPinto\\ProyectoDesafioAndresPinillosPinto.csproj",
         "packagesPath": "C:\\Users\\Andinto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Andinto\\source\\repos\\ProyectoDesafioAndresPinillosPinto\\ProyectoDesafioAndresPinillosPinto\\obj\\",
+        "outputPath": "C:\\Users\\Andinto\\source\\repos\\ProyectoFinalCsharp-CH\\DesafioFinal-C--CH\\ProyectoDesafioAndresPinillosPinto\\ProyectoDesafioAndresPinillosPinto\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\Andinto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -45,6 +49,16 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
