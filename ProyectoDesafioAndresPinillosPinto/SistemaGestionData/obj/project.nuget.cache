@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "D29vQjQ0Z4c=",
+  "dgSpecHash": "8/F3C2K6070=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Andinto\\source\\repos\\ProyectoFinalCsharp-CH\\DesafioFinal-C--CH\\ProyectoDesafioAndresPinillosPinto\\ProyectoDesafioAndresPinillosPinto\\SistemaGestion.csproj",
+  "projectFilePath": "C:\\Users\\Andinto\\source\\repos\\ProyectoFinalCsharp-CH\\DesafioFinal-C--CH\\ProyectoDesafioAndresPinillosPinto\\SistemaGestionData\\SistemaGestionData.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Andinto\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Andinto\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

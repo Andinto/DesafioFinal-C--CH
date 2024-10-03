@@ -208,6 +208,16 @@
             "rid": "win"
           }
         }
+      },
+      "SistemaGestionEntities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/SistemaGestionEntities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SistemaGestionEntities.dll": {}
+        }
       }
     }
   },
@@ -629,10 +639,16 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "SistemaGestionEntities/1.0.0": {
+      "type": "project",
+      "path": "../SistemaGestionEntities/SistemaGestionEntities.csproj",
+      "msbuildProject": "../SistemaGestionEntities/SistemaGestionEntities.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "SistemaGestionEntities >= 1.0.0",
       "System.Configuration.ConfigurationManager >= 8.0.0",
       "System.Data.SqlClient >= 4.8.6"
     ]
@@ -644,11 +660,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Andinto\\source\\repos\\ProyectoFinalCsharp-CH\\DesafioFinal-C--CH\\ProyectoDesafioAndresPinillosPinto\\ProyectoDesafioAndresPinillosPinto\\SistemaGestion.csproj",
-      "projectName": "SistemaGestion",
-      "projectPath": "C:\\Users\\Andinto\\source\\repos\\ProyectoFinalCsharp-CH\\DesafioFinal-C--CH\\ProyectoDesafioAndresPinillosPinto\\ProyectoDesafioAndresPinillosPinto\\SistemaGestion.csproj",
+      "projectUniqueName": "C:\\Users\\Andinto\\source\\repos\\ProyectoFinalCsharp-CH\\DesafioFinal-C--CH\\ProyectoDesafioAndresPinillosPinto\\SistemaGestionData\\SistemaGestionData.csproj",
+      "projectName": "SistemaGestionData",
+      "projectPath": "C:\\Users\\Andinto\\source\\repos\\ProyectoFinalCsharp-CH\\DesafioFinal-C--CH\\ProyectoDesafioAndresPinillosPinto\\SistemaGestionData\\SistemaGestionData.csproj",
       "packagesPath": "C:\\Users\\Andinto\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Andinto\\source\\repos\\ProyectoFinalCsharp-CH\\DesafioFinal-C--CH\\ProyectoDesafioAndresPinillosPinto\\ProyectoDesafioAndresPinillosPinto\\obj\\",
+      "outputPath": "C:\\Users\\Andinto\\source\\repos\\ProyectoFinalCsharp-CH\\DesafioFinal-C--CH\\ProyectoDesafioAndresPinillosPinto\\SistemaGestionData\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -669,7 +685,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Andinto\\source\\repos\\ProyectoFinalCsharp-CH\\DesafioFinal-C--CH\\ProyectoDesafioAndresPinillosPinto\\SistemaGestionEntities\\SistemaGestionEntities.csproj": {
+              "projectPath": "C:\\Users\\Andinto\\source\\repos\\ProyectoFinalCsharp-CH\\DesafioFinal-C--CH\\ProyectoDesafioAndresPinillosPinto\\SistemaGestionEntities\\SistemaGestionEntities.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
