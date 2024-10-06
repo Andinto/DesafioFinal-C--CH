@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Andinto\\source\\repos\\ProyectoFinalCsharp-CH\\DesafioFinal-C--CH\\ProyectoDesafioAndresPinillosPinto\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{A3B9B865-561E-41C2-82D7-C447329ED32E}|SistemaGestionData\\SistemaGestionData.csproj|c:\\users\\andinto\\source\\repos\\proyectofinalcsharp-ch\\desafiofinal-c--ch\\proyectodesafioandrespinillospinto\\sistemagestiondata\\usuariodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3B9B865-561E-41C2-82D7-C447329ED32E}|SistemaGestionData\\SistemaGestionData.csproj|solutionrelative:sistemagestiondata\\usuariodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -23,19 +18,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UsuarioData.cs",
-              "DocumentMoniker": "C:\\Users\\Andinto\\source\\repos\\ProyectoFinalCsharp-CH\\DesafioFinal-C--CH\\ProyectoDesafioAndresPinillosPinto\\SistemaGestionData\\UsuarioData.cs",
-              "RelativeDocumentMoniker": "SistemaGestionData\\UsuarioData.cs",
-              "ToolTip": "C:\\Users\\Andinto\\source\\repos\\ProyectoFinalCsharp-CH\\DesafioFinal-C--CH\\ProyectoDesafioAndresPinillosPinto\\SistemaGestionData\\UsuarioData.cs",
-              "RelativeToolTip": "SistemaGestionData\\UsuarioData.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAApwCkAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T02:54:40.936Z",
-              "EditorCaption": ""
             }
           ]
         }
