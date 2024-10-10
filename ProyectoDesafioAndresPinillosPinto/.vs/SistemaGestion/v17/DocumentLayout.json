@@ -1,15 +1,40 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Andinto\\source\\repos\\ProyectoFinalCsharp-CH\\DesafioFinal-C--CH\\ProyectoDesafioAndresPinillosPinto\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD46BEE6-3CAA-40DF-8800-4FBCE0CAF452}|SistemaGestionUI\\SistemaGestionUI.csproj|c:\\users\\andinto\\source\\repos\\proyectofinalcsharp-ch\\desafiofinal-c--ch\\proyectodesafioandrespinillospinto\\sistemagestionui\\controllers\\productovendidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD46BEE6-3CAA-40DF-8800-4FBCE0CAF452}|SistemaGestionUI\\SistemaGestionUI.csproj|solutionrelative:sistemagestionui\\controllers\\productovendidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD46BEE6-3CAA-40DF-8800-4FBCE0CAF452}|SistemaGestionUI\\SistemaGestionUI.csproj|c:\\users\\andinto\\source\\repos\\proyectofinalcsharp-ch\\desafiofinal-c--ch\\proyectodesafioandrespinillospinto\\sistemagestionui\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD46BEE6-3CAA-40DF-8800-4FBCE0CAF452}|SistemaGestionUI\\SistemaGestionUI.csproj|solutionrelative:sistemagestionui\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD46BEE6-3CAA-40DF-8800-4FBCE0CAF452}|SistemaGestionUI\\SistemaGestionUI.csproj|c:\\users\\andinto\\source\\repos\\proyectofinalcsharp-ch\\desafiofinal-c--ch\\proyectodesafioandrespinillospinto\\sistemagestionui\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD46BEE6-3CAA-40DF-8800-4FBCE0CAF452}|SistemaGestionUI\\SistemaGestionUI.csproj|solutionrelative:sistemagestionui\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD46BEE6-3CAA-40DF-8800-4FBCE0CAF452}|SistemaGestionUI\\SistemaGestionUI.csproj|c:\\users\\andinto\\source\\repos\\proyectofinalcsharp-ch\\desafiofinal-c--ch\\proyectodesafioandrespinillospinto\\sistemagestionui\\controllers\\ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD46BEE6-3CAA-40DF-8800-4FBCE0CAF452}|SistemaGestionUI\\SistemaGestionUI.csproj|solutionrelative:sistemagestionui\\controllers\\ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A900CFD2-A002-4B21-9AC0-1D52CCA8AF97}|SistemaGestionBussiness\\SistemaGestionBussiness.csproj|c:\\users\\andinto\\source\\repos\\proyectofinalcsharp-ch\\desafiofinal-c--ch\\proyectodesafioandrespinillospinto\\sistemagestionbussiness\\usuariobussiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A900CFD2-A002-4B21-9AC0-1D52CCA8AF97}|SistemaGestionBussiness\\SistemaGestionBussiness.csproj|solutionrelative:sistemagestionbussiness\\usuariobussiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B9B865-561E-41C2-82D7-C447329ED32E}|SistemaGestionData\\SistemaGestionData.csproj|c:\\users\\andinto\\source\\repos\\proyectofinalcsharp-ch\\desafiofinal-c--ch\\proyectodesafioandrespinillospinto\\sistemagestiondata\\usuariodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3B9B865-561E-41C2-82D7-C447329ED32E}|SistemaGestionData\\SistemaGestionData.csproj|solutionrelative:sistemagestiondata\\usuariodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
-      "Orientation": 0,
+      "Orientation": 1,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +43,84 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductoVendidosController.cs",
+              "DocumentMoniker": "C:\\Users\\Andinto\\source\\repos\\ProyectoFinalCsharp-CH\\DesafioFinal-C--CH\\ProyectoDesafioAndresPinillosPinto\\SistemaGestionUI\\Controllers\\ProductoVendidosController.cs",
+              "RelativeDocumentMoniker": "SistemaGestionUI\\Controllers\\ProductoVendidosController.cs",
+              "ToolTip": "C:\\Users\\Andinto\\source\\repos\\ProyectoFinalCsharp-CH\\DesafioFinal-C--CH\\ProyectoDesafioAndresPinillosPinto\\SistemaGestionUI\\Controllers\\ProductoVendidosController.cs",
+              "RelativeToolTip": "SistemaGestionUI\\Controllers\\ProductoVendidosController.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAAAHUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T01:04:56.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VentaController.cs",
+              "DocumentMoniker": "C:\\Users\\Andinto\\source\\repos\\ProyectoFinalCsharp-CH\\DesafioFinal-C--CH\\ProyectoDesafioAndresPinillosPinto\\SistemaGestionUI\\Controllers\\VentaController.cs",
+              "RelativeDocumentMoniker": "SistemaGestionUI\\Controllers\\VentaController.cs",
+              "ToolTip": "C:\\Users\\Andinto\\source\\repos\\ProyectoFinalCsharp-CH\\DesafioFinal-C--CH\\ProyectoDesafioAndresPinillosPinto\\SistemaGestionUI\\Controllers\\VentaController.cs",
+              "RelativeToolTip": "SistemaGestionUI\\Controllers\\VentaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T01:02:52.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\Andinto\\source\\repos\\ProyectoFinalCsharp-CH\\DesafioFinal-C--CH\\ProyectoDesafioAndresPinillosPinto\\SistemaGestionUI\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "SistemaGestionUI\\Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\Andinto\\source\\repos\\ProyectoFinalCsharp-CH\\DesafioFinal-C--CH\\ProyectoDesafioAndresPinillosPinto\\SistemaGestionUI\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "SistemaGestionUI\\Controllers\\ProductoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T00:44:11.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Andinto\\source\\repos\\ProyectoFinalCsharp-CH\\DesafioFinal-C--CH\\ProyectoDesafioAndresPinillosPinto\\SistemaGestionUI\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "SistemaGestionUI\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Andinto\\source\\repos\\ProyectoFinalCsharp-CH\\DesafioFinal-C--CH\\ProyectoDesafioAndresPinillosPinto\\SistemaGestionUI\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "SistemaGestionUI\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T00:10:28.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuarioBussiness.cs",
+              "DocumentMoniker": "C:\\Users\\Andinto\\source\\repos\\ProyectoFinalCsharp-CH\\DesafioFinal-C--CH\\ProyectoDesafioAndresPinillosPinto\\SistemaGestionBussiness\\UsuarioBussiness.cs",
+              "RelativeDocumentMoniker": "SistemaGestionBussiness\\UsuarioBussiness.cs",
+              "ToolTip": "C:\\Users\\Andinto\\source\\repos\\ProyectoFinalCsharp-CH\\DesafioFinal-C--CH\\ProyectoDesafioAndresPinillosPinto\\SistemaGestionBussiness\\UsuarioBussiness.cs",
+              "RelativeToolTip": "SistemaGestionBussiness\\UsuarioBussiness.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAuwBkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T00:29:22.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsuarioData.cs",
+              "DocumentMoniker": "C:\\Users\\Andinto\\source\\repos\\ProyectoFinalCsharp-CH\\DesafioFinal-C--CH\\ProyectoDesafioAndresPinillosPinto\\SistemaGestionData\\UsuarioData.cs",
+              "RelativeDocumentMoniker": "SistemaGestionData\\UsuarioData.cs",
+              "ToolTip": "C:\\Users\\Andinto\\source\\repos\\ProyectoFinalCsharp-CH\\DesafioFinal-C--CH\\ProyectoDesafioAndresPinillosPinto\\SistemaGestionData\\UsuarioData.cs",
+              "RelativeToolTip": "SistemaGestionData\\UsuarioData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T00:30:02.596Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,0 +1,12 @@
+C:\Users\Andinto\source\repos\ProyectoFinalCsharp-CH\DesafioFinal-C--CH\ProyectoDesafioAndresPinillosPinto\SistemaGestionEntities\bin\Debug\net8.0\SistemaGestionEntities.deps.json
+C:\Users\Andinto\source\repos\ProyectoFinalCsharp-CH\DesafioFinal-C--CH\ProyectoDesafioAndresPinillosPinto\SistemaGestionEntities\bin\Debug\net8.0\SistemaGestionEntities.dll
+C:\Users\Andinto\source\repos\ProyectoFinalCsharp-CH\DesafioFinal-C--CH\ProyectoDesafioAndresPinillosPinto\SistemaGestionEntities\bin\Debug\net8.0\SistemaGestionEntities.pdb
+C:\Users\Andinto\source\repos\ProyectoFinalCsharp-CH\DesafioFinal-C--CH\ProyectoDesafioAndresPinillosPinto\SistemaGestionEntities\obj\Debug\net8.0\SistemaGestionEntities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andinto\source\repos\ProyectoFinalCsharp-CH\DesafioFinal-C--CH\ProyectoDesafioAndresPinillosPinto\SistemaGestionEntities\obj\Debug\net8.0\SistemaGestionEntities.AssemblyInfoInputs.cache
+C:\Users\Andinto\source\repos\ProyectoFinalCsharp-CH\DesafioFinal-C--CH\ProyectoDesafioAndresPinillosPinto\SistemaGestionEntities\obj\Debug\net8.0\SistemaGestionEntities.AssemblyInfo.cs
+C:\Users\Andinto\source\repos\ProyectoFinalCsharp-CH\DesafioFinal-C--CH\ProyectoDesafioAndresPinillosPinto\SistemaGestionEntities\obj\Debug\net8.0\SistemaGestionEntities.csproj.CoreCompileInputs.cache
+C:\Users\Andinto\source\repos\ProyectoFinalCsharp-CH\DesafioFinal-C--CH\ProyectoDesafioAndresPinillosPinto\SistemaGestionEntities\obj\Debug\net8.0\SistemaGestionEntities.sourcelink.json
+C:\Users\Andinto\source\repos\ProyectoFinalCsharp-CH\DesafioFinal-C--CH\ProyectoDesafioAndresPinillosPinto\SistemaGestionEntities\obj\Debug\net8.0\SistemaGestionEntities.dll
+C:\Users\Andinto\source\repos\ProyectoFinalCsharp-CH\DesafioFinal-C--CH\ProyectoDesafioAndresPinillosPinto\SistemaGestionEntities\obj\Debug\net8.0\refint\SistemaGestionEntities.dll
+C:\Users\Andinto\source\repos\ProyectoFinalCsharp-CH\DesafioFinal-C--CH\ProyectoDesafioAndresPinillosPinto\SistemaGestionEntities\obj\Debug\net8.0\SistemaGestionEntities.pdb
+C:\Users\Andinto\source\repos\ProyectoFinalCsharp-CH\DesafioFinal-C--CH\ProyectoDesafioAndresPinillosPinto\SistemaGestionEntities\obj\Debug\net8.0\ref\SistemaGestionEntities.dll
